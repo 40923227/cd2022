@@ -350,9 +350,24 @@ function doSave(storage_id, filename){
 <div style="width: 100%; height: 100%;"><textarea autocomplete="off" id="kw_console1"></textarea></div>
 <p><!-- Brython 程式執行的結果, 都以 brython_div 作為切入位置 --></p>
 <p><!-- 這裡的畫布 id 為 brython_div --></p>
-<h1 id="brython_div">HW</h1>
+<h1>HW</h1>
 <h2>W3</h2>
 <p></p>
+<script>
+var winkVideoData = {
+  dataVersion: 1,
+  frameRate: 10,
+  buttonFrameLength: 5,
+  buttonFrameOffset: 2,
+  frameStops: {
+  },
+};
+</script>
+<div class="winkVideoContainerClass"><video autoplay="autoplay" class="winkVideoClass" data-dirname="./../cmsimde/static" data-varname="winkVideoData" height="318" loop="loop" muted="" playsinline="" width="565">
+<source src="./../downloads/40923227w3-1.mp4" type="video/mp4"/></video>
+<div class="winkVideoOverlayClass"></div>
+<div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button></div>
+</div>
 <p><!-- graphics-column is for ggame --></p>
 <div class="col-md-0" height="1" id="graphics-column" width="1"></div>
 <p><!-- ######################  editor1 結束 ###################### --></p>
