@@ -57,6 +57,7 @@
 <v t="leo.20180115115910.1"><vh>2022</vh>
 <v t="leo.20180423103639.1"><vh>2022 Spring CD 課程</vh>
 <v t="leo.20180423103656.1"><vh>@edit 20200813.md</vh></v>
+<v t="leo.20220407151932.1"><vh>edit w7.md</vh></v>
 </v>
 </v>
 </v>
@@ -88,6 +89,14 @@ g.es("admin pelican Github 執行完畢")
 <t tx="leo.20180115093726.1"></t>
 <t tx="leo.20180115115910.1"></t>
 <t tx="leo.20180423103639.1"></t>
+<t tx="leo.20220407151932.1">@language md
+---
+Title: 2022 Spring CD 課程
+Date: 2022-4-07 15:21
+Category: Misc
+Tags: 2022SpringCD
+Slug: w7_summary
+Author: 40923227</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
