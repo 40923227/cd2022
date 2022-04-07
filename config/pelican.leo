@@ -55,9 +55,9 @@
 <v t="leo.20170710022054.1"><vh>可以另建節點存放 markdown 目錄下的 md 檔案</vh></v>
 <v t="leo.20170710022041.1"><vh>@path markdown</vh>
 <v t="leo.20180115115910.1"><vh>2022</vh>
-<v t="leo.20220407154544.1"><vh>edit w7.md</vh></v>
 <v t="leo.20180423103639.1"><vh>2022 Spring CD 課程</vh>
 <v t="leo.20180423103656.1"><vh>@edit 20200813.md</vh></v>
+<v t="leo.20220407154907.1"><vh>edit w7.md</vh></v>
 </v>
 </v>
 </v>
@@ -89,15 +89,35 @@ g.es("admin pelican Github 執行完畢")
 <t tx="leo.20180115093726.1"></t>
 <t tx="leo.20180115115910.1"></t>
 <t tx="leo.20180423103639.1"></t>
-<t tx="leo.20220407154544.1">@language md
+<t tx="leo.20220407154907.1">@language md
 ---
 Title: 2022 Spring CD 課程
-Date: 2022-4-07 15:21
+Date: 2022-3-31 15:49
 Category: Misc
 Tags: 2022SpringCD
 Slug: w7_summary
 Author: 40923227
----</t>
+---
+
+2022 Spring 協同產品設計實習
+
+Python
+----
+Python 可以用來開發單機版的視窗程式套件 Pyslvs-UI
+
+Python 可以用來開發網際版的內容管理系統 CMSiMDE
+
+Python 可以用來控制 CoppeliaSim 與 Webots 虛擬環境中的機電系統
+
+Python 可以用於機器學習 Keras, Pytorch
+
+
+Flutter
+----
+
+Flutter 可以用來開發跨 Apple 與 Android 手機與平板上的 Apps
+
+&lt;!-- PELICAN_END_SUMMARY --&gt;</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
