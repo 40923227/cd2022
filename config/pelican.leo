@@ -55,9 +55,9 @@
 <v t="leo.20170710022054.1"><vh>可以另建節點存放 markdown 目錄下的 md 檔案</vh></v>
 <v t="leo.20170710022041.1"><vh>@path markdown</vh>
 <v t="leo.20180115115910.1"><vh>2022</vh>
+<v t="leo.20220407154544.1"><vh>edit w7.md</vh></v>
 <v t="leo.20180423103639.1"><vh>2022 Spring CD 課程</vh>
 <v t="leo.20180423103656.1"><vh>@edit 20200813.md</vh></v>
-<v t="leo.20220407151932.1"><vh>edit w7.md</vh></v>
 </v>
 </v>
 </v>
@@ -89,7 +89,7 @@ g.es("admin pelican Github 執行完畢")
 <t tx="leo.20180115093726.1"></t>
 <t tx="leo.20180115115910.1"></t>
 <t tx="leo.20180423103639.1"></t>
-<t tx="leo.20220407151932.1">@language md
+<t tx="leo.20220407154544.1">@language md
 ---
 Title: 2022 Spring CD 課程
 Date: 2022-4-07 15:21
