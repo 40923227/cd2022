@@ -99,25 +99,10 @@ Tags: 2022SpringCD
 Slug: midterm blog
 Author: 40923227
 ---
+midterm blog
 
-2022 Spring 協同產品設計實習
 &lt;!-- PELICAN_END_SUMMARY --&gt;
 
-Python
-----
-Python 可以用來開發單機版的視窗程式套件 Pyslvs-UI
-
-Python 可以用來開發網際版的內容管理系統 CMSiMDE
-
-Python 可以用來控制 CoppeliaSim 與 Webots 虛擬環境中的機電系統
-
-Python 可以用於機器學習 Keras, Pytorch
-
-
-Flutter
-----
-
-Flutter 可以用來開發跨 Apple 與 Android 手機與平板上的 Apps
 
 
 </t>
