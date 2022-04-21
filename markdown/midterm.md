@@ -6,7 +6,7 @@ Tags: 2022SpringCD
 Slug: midterm blog
 Author: 40923227
 ---
-midterm blog
+midterm
 
 <!-- PELICAN_END_SUMMARY -->
 
