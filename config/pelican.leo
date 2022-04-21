@@ -58,7 +58,7 @@
 <v t="leo.20180423103639.1"><vh>2022 Spring CD 課程</vh>
 <v t="leo.20180423103656.1"><vh>@edit 20200813.md</vh></v>
 <v t="leo.20220407154907.1"><vh>@edit w7.md</vh></v>
-<v t="leo.20220421142126.1"><vh>@edit midterm blog.md</vh></v>
+<v t="leo.20220421142126.1"><vh>@edit midterm.md</vh></v>
 </v>
 </v>
 </v>
